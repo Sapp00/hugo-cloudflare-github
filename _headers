@@ -1,0 +1,17 @@
+/*
+  Cache-Control: max-age=1209600, s-maxage=1209600, stale-if-error=600
+  Cloudflare-CDN-Cache-Control: max-age=1209600, stale-if-error=600
+  CDN-Cache-Control: 1209600, stale-if-error=600
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Access-Control-Allow-Origin: *
+  Referrer-Policy: strict-origin-when-cross-origin
+  Server: cloudflare
+/*.js
+  Content-Type: application/x-javascript; charset=utf-8
+/*.html
+  Content-Type: text/html
+/*.png
+  Content-Type: image/png
+/*.css
+  Content-Type: text/css
